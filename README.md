@@ -1,11 +1,11 @@
-# RAIL Lab at Georgia Tech's Situational Awareness Cognitive Test
+# RAIL Lab at Georgia Tech's Situation Awareness Cognitive Test
 
 Maintained by Jack Kolb (kolb@gatech.edu), copyright (C) 2021 RAIL Lab @ Georgia Tech
 
 
 ### Overview ###
 
-This test quantifies a user's situational awareness cognitive trait. Specifically, it tests their ability to understand a system using the first two levels of Endsley's situational awareness model -- understanding the elements of a system, and understanding the context of a system. The user plays a puzzle game where they watch packages be distributed through a warehouse network. Packages that match a warehouse's shape and color are processed by the warehouse, or otherwise sent downstream. The user seeks to maintain an awareness of the capacity of each warehouse, and as warehouses fill up overtime are challenged to utilize subtleties of the network in their mental model.
+This test quantifies a user's situation awareness cognitive skill. Specifically, it tests their ability to understand a system using the first two levels of Endsley's situation awareness model -- understanding the elements of a system, and understanding the context of a system. The user plays a puzzle game where they watch packages be distributed through a warehouse network. Packages that match a warehouse's shape and color are processed by the warehouse, or otherwise sent downstream. The user seeks to maintain an awareness of the capacity of each warehouse, and as warehouses fill up overtime are challenged to utilize subtleties of the network in their mental model.
 
 The test follows the SAGAT format: the user watches the package distribution for 30 seconds, then the distribution freezes and the packages and warehouse colors are hidden, and the user is asked to identify the capacity level of each warehouse (low, medium, high). This repeats for 4 iterations. The user is scored by their number of correct identifications.
 
